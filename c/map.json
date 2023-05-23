@@ -29,12 +29,12 @@
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/3dsmax.svg",
     "color": "#000000"
   },
-  "marmoset": {
+  "marmoset toolbag": {
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/marmoset.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/marmoset.svg",
     "color": "#ffffff"
   },
-  "marvelous": {
+  "marvelous designer": {
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/marvelous.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/marvelous.svg",
     "color": "#ffffff"
@@ -49,12 +49,12 @@
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/spring.svg",
     "color": "#ffffff"
   },
-  "springboot": {
+  "spring boot": {
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/springboot.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/springboot.svg",
     "color": "#ffffff"
   },
-  "springsecurity": {
+  "spring security": {
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/springsecurity.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/springsecurity.svg",
     "color": "#ffffff"
@@ -64,7 +64,7 @@
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/nestjs.svg",
     "color": "#d9224c"
   }, 
-  "threejs": {
+  "three.js": {
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/threejs.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/threejs.svg",
     "color": "#ffffff"
