@@ -1,18 +1,82 @@
 {
   "substance designer": {
-    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/sd.svg",
-    "color": "#1e3101"
-  },
-  "substance painter": {
-    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/sp.svg",
-    "color": "#1e3101"
-  },
-  "blender": {
-    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/blender.svg",
-    "color": "#f5792a"
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/sd.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/sd.svg",
+    "color": "#ffffff"
   },
   "unreal engine": {
-    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/unreal.svg",
-    "color": "#1e1e1e"
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/ue.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/ue.svg",
+    "color": "#ffffff"
+  },
+  "blender": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/blender.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/blender.svg",
+    "color": "#ffffff"
+  },
+  "zbrush": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/zbrush.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/zbrush.svg",
+    "color": "#ffffff"
+  },
+  "substance painter": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/sp.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/sp.svg",
+    "color": "#1e3101"
+  },
+  "3ds max": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/3dsmax.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/3dsmax.svg",
+    "color": "#000000"
+  },
+  "marmoset": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/marmoset.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/marmoset.svg",
+    "color": "#ffffff"
+  },
+  "marvelous": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/marvelous.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/marvelous.svg",
+    "color": "#ffffff"
+  },
+  "mari": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/mari.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/mari.svg",
+    "color": "#ffffff"
+  },
+  "spring": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/spring.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/spring.svg",
+    "color": "#ffffff"
+  },
+  "springboot": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/springboot.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/springboot.svg",
+    "color": "#ffffff"
+  },
+  "springsecurity": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/springsecurity.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/springsecurity.svg",
+    "color": "#ffffff"
+  },
+  "nestjs": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/nestjs.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/nestjs.svg",
+    "color": "#d9224c"
+  }, 
+  "threejs": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/threejs.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/threejs.svg",
+    "color": "#ffffff"
+  },
+  "wordpress": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/wordpress.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/wordpress.svg",
+    "color": "#ffffff"
+  },
+  "django": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/django.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/django.svg",
+    "color": "#ffffff"
   }  
 }
