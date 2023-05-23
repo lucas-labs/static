@@ -1,5 +1,18 @@
 {
-  "substance designer": "https://raw.githubusercontent.com/lucas-labs/static/main/c/substance.png",
-  "blender": "https://raw.githubusercontent.com/lucas-labs/static/main/c/blender.png",
-  "unreal engine": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ue.png"  
+  "substance designer": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/sd.svg",
+    "color": "#1e3101"
+  },
+  "substance painter": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/sp.svg",
+    "color": "#1e3101"
+  },
+  "blender": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/blender.svg",
+    "color": "#f5792a"
+  },
+  "unreal engine": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/unreal.svg",
+    "color": "#1e1e1e"
+  }  
 }
