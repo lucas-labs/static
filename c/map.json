@@ -22,7 +22,7 @@
   "substance painter": {
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/sp.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/sp.svg",
-    "color": "#1e3101"
+    "color": "#ffffff"
   },
   "3ds max": {
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/3dsmax.webp",
