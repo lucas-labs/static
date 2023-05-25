@@ -78,5 +78,25 @@
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/django.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/django.svg",
     "color": "#ffffff"
-  }  
+  },
+  "react": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/react.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/react.svg",
+    "color": "#ffffff"
+  },
+  "nextjs": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/nextjs.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/nextjs.svg",
+    "color": "#ffffff"
+  }, 
+  "trading": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/py-trading-ds.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/py-trading-ds.svg",
+    "color": "#ffffff"
+  },
+  "financial - trading": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/trading.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/trading.svg",
+    "color": "#ffffff"
+  }
 }
