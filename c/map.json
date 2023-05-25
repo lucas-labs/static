@@ -90,13 +90,13 @@
     "color": "#ffffff"
   }, 
   "trading": {
-    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/py-trading-ds.webp",
-    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/py-trading-ds.svg",
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/trading.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/trading.svg",
     "color": "#ffffff"
   },
   "financial - trading": {
-    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/trading.webp",
-    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/trading.svg",
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/py-trading-ds.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/py-trading-ds.svg",
     "color": "#ffffff"
   }
 }
