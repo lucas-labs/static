@@ -98,5 +98,20 @@
     "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/py-trading-ds.webp",
     "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/py-trading-ds.svg",
     "color": "#ffffff"
+  },
+  "golang": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/golang.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/golang.svg",
+    "color": "#ffffff"
+  },
+  "fastapi": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/fastapi.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/fastapi.svg",
+    "color": "#ffffff"
+  },
+  "rust": {
+    "img": "https://raw.githubusercontent.com/lucas-labs/static/main/c/bg/rust.webp",
+    "svg": "https://raw.githubusercontent.com/lucas-labs/static/main/c/ico/rust.svg",
+    "color": "#ffffff"
   }
 }
